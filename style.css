@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background: rgb violet;
+    font-family: "Lobster";
+}
+
+header {
+    border-bottom: solid 2px rgb(192, 53, 235);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(154, 29, 192);
+}
+
+section {
+    background: rgb(168, 101, 189);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto {
+    margin-right: 20px;
+}
